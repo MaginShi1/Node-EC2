@@ -2,19 +2,16 @@
   "name": "node-hello",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
+    "url": "git+https://github.com/MaginShi1/Node-EC2"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
-  },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "license": "ISC"
+  }
 }
