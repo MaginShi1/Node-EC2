@@ -1,7 +1,7 @@
 const http = require('http');
  
 const hostname = '34.255.2.129';
-const port = 3000;
+const port = 80;
  
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
